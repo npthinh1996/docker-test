@@ -1,3 +1,3 @@
-FROM php:apache
+FROM php
 
 COPY . /var/www/html/
